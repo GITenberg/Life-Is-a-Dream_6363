@@ -1,0 +1,43 @@
+_repo: Life-Is-a-Dream_6363
+contributor:
+  translator:
+    agent_name: MacCarthy, Denis Florence
+    aliases:
+    - M'Carthy, Denis Florence
+    - MacCarthy, D. Florence (Denis Florence)
+    - McCarthy, Denis Florence
+    - M'Carthy, D. F. (Denis Florence)
+    birthdate: 1817
+    deathdate: 1882
+    gutenberg_agent_id: '4460'
+    url: http://www.gutenberg.org/2009/agents/4460
+    wikipedia: http://en.wikipedia.org/wiki/Denis_Florence_MacCarthy
+creator:
+  author:
+    agent_name: Calderón de la Barca, Pedro
+    aliases:
+    - Barca, Pedro Calderón de la
+    - Calderon de la Barca, Pedro
+    birthdate: 1600
+    deathdate: 1681
+    gutenberg_agent_id: '970'
+    url: http://www.gutenberg.org/2009/agents/970
+    wikipedia: http://en.wikipedia.org/wiki/Pedro_Calderón_de_la_Barca
+description: Life is a Dream is a philosophical allegory regarding the human situation
+  and the mystery of life. Focusing on Segismundo, Prince of Poland, the central argument
+  is the conflict between free will and fate. The play remains one of Calderûn's best-known
+  and most studied works.
+gutenberg_bookshelf: Harvard Classics
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6363'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Drama'
+- !lcc 'PQ'
+title: Life Is a Dream
+url: http://www.gutenberg.org/ebooks/6363
